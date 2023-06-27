@@ -19,6 +19,12 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
+let surucuYasi = 0;
+if (surucuYasi >18){
+  console.log("True")
+}else {
+  console.log("False");
+}
 
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
